@@ -1,5 +1,5 @@
 ## De Guzman, Jefferson
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REPELJeffDG&show_icons=true&theme=dracula)](https://github.com/REPELJeffDG/github-readme-stats)
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=REPELJeffDG&show_icons=true&theme=dracula"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REPELJeffDG&layout=compact&theme=dracula)
+<img alt="top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPELJeffDG&layout=compact&theme=dracula"/>
